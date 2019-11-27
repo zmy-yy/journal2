@@ -47,8 +47,7 @@ table table th {
   background-color: white;
 }
 li {
-  list-style-type: url(./images/backpack.gif);
+  list-style-image: url(./images/backpack.gif);
   padding-top: 5px;
   margin-left: 20px;
 }
-
